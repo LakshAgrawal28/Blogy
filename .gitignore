@@ -17,6 +17,10 @@ frontend/dist/
 backend/dist/
 coverage/
 
+# Reference assets and docs
+stitch (4)/
+files/
+
 # Runtime/data files
 backend/data/db.json
 *.log
